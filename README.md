@@ -1,2 +1,2 @@
 # bigFiletest
-test big size file on githug
+test big size file on github
